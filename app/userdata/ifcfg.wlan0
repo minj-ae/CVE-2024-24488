@@ -1,0 +1,4 @@
+DHCP=yes
+WIFI_SSID=selfloopback
+WIFI_SECURITY=WPA2-PSK
+WIFI_PSK=verysecretpassword
